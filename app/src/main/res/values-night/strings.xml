@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TmhTask</string>
+    <string name="submit">Submit</string>
+    <string name="nothing">nothing</string>
+    <string name="error_fetching_tasks">Error fetching tasks</string>
+    <string name="Fetch">Fetch</string>
+    <string name="addTask">Add Task</string>
+</resources>
